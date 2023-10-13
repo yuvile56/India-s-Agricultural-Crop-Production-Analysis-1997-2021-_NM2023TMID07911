@@ -11,3 +11,7 @@ Story 1 Public Link - https://public.tableau.com/views/InsightsintoIndiasagricul
 Story 2 Public Link - https://public.tableau.com/views/InsightsintoIndiasagriculturalculivationstory2/Story2?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Video Demonstration Link - https://drive.google.com/file/d/1yDKKPo0-W2xVHjzFsUDnxQG6l15o7SaF/view?usp=drivesdk
+
+Dataset 1 Link - https://drive.google.com/file/d/1--7K1d04S2Rs8K-7XPdrYVqgZT44wlcx/view?usp=drivesdk
+
+Dataset 2 Link - https://docs.google.com/spreadsheets/d/1zrH6c7rZhEvIyZD0YYS3znjnwg7usvcK/edit?usp=drivesdk&ouid=112134872272029698386&rtpof=true&sd=true
